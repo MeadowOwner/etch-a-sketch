@@ -9,3 +9,11 @@
     height: 960px;
     background-color: lightgrey;
 }
+
+#drawing{
+    width: 960px;
+    height: 960px;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
